@@ -53,7 +53,7 @@ ZSH_THEME_GIT_PROMPT_CLEAN="%{$fg[blue]%}›"
 ZSH_THEME_VIRTUAL_ENV_PROMPT_PREFIX="venv:‹%{$fg[red]%}"
 ZSH_THEME_VIRTUAL_ENV_PROMPT_SUFFIX="%{$fg[blue]%}› "
 
-ZSH_THEME_PYENV_PROMPT_PREFIX="python:‹%{$fg[red]%}"
+ZSH_THEME_PYENV_PROMPT_PREFIX="‹%{$fg[yellow]%}"
 ZSH_THEME_PYENV_PROMPT_SUFFIX="%{$fg[blue]%}› "
 
 ZSH_THEME_DOCKER_PROMPT_PREFIX="docker:‹%{$fg[red]%}"
