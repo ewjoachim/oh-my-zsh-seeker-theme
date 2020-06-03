@@ -1,3 +1,8 @@
+My fork
+=======
+
+I took what I needed, fixed what needed be fixed and cleaned the rest.
+
 oh-my-zsh::theme::seeker
 ========================
 
